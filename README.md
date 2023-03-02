@@ -24,5 +24,5 @@
 <br>
 
 ## 프로젝트 최종 발표자료
-[최종 발표자료.pdf](https://github.com/tianahyeon/Maumgagym/files/10868745/마음가짐프로젝트(최종).pdf)
+[최종 발표자료.pdf](https://github.com/tianahyeon/Maumgagym/files/10868745/default.pdf)
 
