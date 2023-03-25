@@ -64,6 +64,5 @@ Java, HTML/CSS, JavaScript, JSP
 
 <br>
 [마음가짐프로젝트_기술설명서.docx](https://github.com/tianahyeon/Maumgagym/files/11069177/_.docx)<br>
-<br>
 [마음가짐_최종발표자료.pdf](https://github.com/tianahyeon/Maumgagym/files/10904059/_.pdf)
 
