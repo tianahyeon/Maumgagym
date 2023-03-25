@@ -63,6 +63,7 @@ Java, HTML/CSS, JavaScript, JSP
 ▶ 회원이 찜한 운동시설의 회원권을 결제API를 통해(PortOne) 실제 결제 가능하도록 구현<br>
 
 <br>
-[마음가짐프로젝트_기술설명서.docx](https://github.com/tianahyeon/Maumgagym/files/11069177/_.docx)<
+[마음가짐프로젝트_기술설명서.docx](https://github.com/tianahyeon/Maumgagym/files/11069177/_.docx)<br>
+<br>
 [마음가짐_최종발표자료.pdf](https://github.com/tianahyeon/Maumgagym/files/10904059/_.pdf)
 
