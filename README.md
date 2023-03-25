@@ -65,4 +65,4 @@ Java, HTML/CSS, JavaScript, JSP
 <br>
 
 ## 서비스 화면 정리 파일<br>
-[마음가짐프로젝트_기술설명서.docx](https://github.com/tianahyeon/Maumgagym/files/11069177/_.docx)<br>
+[마음가짐프로젝트_기술설명서.docx](https://github.com/tianahyeon/Maumgagym/files/11069177/_.docx)<br><br>
